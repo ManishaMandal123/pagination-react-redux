@@ -1,2 +1,3 @@
 # pagination-react-redux
-Pagination is a list of tasks we need to complete or things that we want to do usually organized in order of priority.
+Pagination is the process of dividing a large dataset into smaller , more manageable chunks , called pages . 
+This is often used in web application to improve the user experience by reducing the amount of data that needs to be loaded at once.
